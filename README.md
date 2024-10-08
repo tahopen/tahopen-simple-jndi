@@ -1,5 +1,6 @@
-# pentaho-simple-jndi
-Pentaho Fork of old Simple JNDI Project
+# tahopen-simple-jndi
+Tahopen Fork pentaho
+Pentaho Fork old Simple JNDI Project
 
 Public wiki:
 https://code.google.com/p/osjava/wiki/SimpleJNDI
